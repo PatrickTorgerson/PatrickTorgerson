@@ -1,3 +1,7 @@
+[![stats](https://github-readme-stats.vercel.app/api?username=PatrickTorgerson&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&border_color=444444&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" alt="Zig" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="Zig" alt="Zig" width="40" height="40"/>
