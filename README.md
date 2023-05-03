@@ -1,4 +1,3 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=PatrickTorgerson&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000&border_color=444444&theme=dracula&card_width=500)](https://github.com/PatrickTorgerson?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickTorgerson&layout=compact&bg_color=00000000&border_color=444444&theme=dracula&card_width=450)](https://github.com/PatrickTorgerson?tab=repositories)
 
