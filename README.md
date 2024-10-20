@@ -1,16 +1,6 @@
 
 
 <div align="center">
-  🧑‍💻
-<a href="https://github.com/PatrickTorgerson?tab=repositories&q=advent&type=&language=&sort=name">
-Advent of Code solutions
-</a>
-  🧑‍💻
-</div>
-
----
-
-<div align="center">
   <a href="https://github.com/PatrickTorgerson?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickTorgerson&layout=compact&bg_color=00000000&border_color=444444&theme=dracula&card_width=800)](https://github.com/PatrickTorgerson?tab=repositories" title="Top Langs" alt="Top Langs"/>
   </a>
